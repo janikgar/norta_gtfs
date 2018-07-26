@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip_id: 1
+  arrival_time: 2018-07-26 13:43:08
+  departure_time: 2018-07-26 13:43:08
+  stop_id: 1
+  stop_sequence: 1
+  stop_headsign: MyString
+  pickup_type: 1
+  drop_off_type: 1
+  shape_dist_traveled: 1.5
+  timepoint: 1
+
+two:
+  trip_id: 1
+  arrival_time: 2018-07-26 13:43:08
+  departure_time: 2018-07-26 13:43:08
+  stop_id: 1
+  stop_sequence: 1
+  stop_headsign: MyString
+  pickup_type: 1
+  drop_off_type: 1
+  shape_dist_traveled: 1.5
+  timepoint: 1
